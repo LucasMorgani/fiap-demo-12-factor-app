@@ -1,6 +1,6 @@
 image:
   repository: docker.io/morganis1411/demo-12-factor-app #REPLACE_ME_YOUR_DOCKERHUB_USERNAME
-  tag: "sha-1d72b4a74a75d77fc5b4bd9e6af7de57016cf06b" # managed-by-ci
+  tag: "sha-021503bf747e88fe93cd9569d18146d655cf772e" # managed-by-ci
   pullPolicy: IfNotPresent
 replicaCount: 3
 service:
